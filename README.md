@@ -1,15 +1,15 @@
 Hi! 🔥 I'm Zay.
 ===========================================================================================================================
 
-Email Developer & 3D Artist
+Email Developer & Digital Designer
 ---------------------------
 
-In 2022 I began my coding journey and as I explored, I become intrigued with the quirky world of email development. It is now my current career path.
+In 2022 I began my coding journey and as I explored, I become intrigued with the quirky world of email development. It is now my current career path. As a hobby, I am diving into creative coding via p5.js. 
 
 * 🌍  I'm ~travelling.
 * 🖥️  See my portfolio at [chaeri-heav3n.](http://chaeri-heav3n.github.io)
-* 🧠  I'm learning Email Dev + 3D Design.
-* 🤝  I'm open to collaborating on 3D & Augmented Reality projects.
+* 🧠  I'm learning Email Dev + 3D Art + p5.js.
+* 🤝  I'm open to collaborating on design projects.
 
 ### Skills
 
